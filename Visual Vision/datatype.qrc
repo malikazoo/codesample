@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>1channel.png</file>
+        <file>3channel.png</file>
+        <file>line.png</file>
+        <file>point.png</file>
+        <file>none.png</file>
+        <file>int.png</file>
+        <file>real.png</file>
+        <file>circle.png</file>
+        <file>matrix.png</file>
+        <file>list.png</file>
+        <file>histogram.png</file>
+        <file>size.png</file>
+    </qresource>
+    <qresource prefix="/interface">
+        <file>play.png</file>
+        <file>pause.png</file>
+    </qresource>
+</RCC>
